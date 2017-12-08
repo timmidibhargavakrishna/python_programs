@@ -1,0 +1,6 @@
+a=int(input("Entera:"))
+b=int(input("Enter B:"))
+c=int(input("Enter c:"))
+d=int(input("Enter d:"))
+res=(a**b)+(c**d)
+print(res)
